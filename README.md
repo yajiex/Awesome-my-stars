@@ -25,6 +25,10 @@ List all my starred repos
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - Core part of the Chakra JavaScript engine that powers Microsoft Edge.
 - [Preact](https://github.com/developit/preact) - Fask 3kb React alternative with the same ES6 API.
 - [GraphQL](https://github.com/facebook/graphql) - A query language and execution engine tied to any backend service.
+- [Gulp](https://github.com/gulpjs/gulp) - The streaming build system.
+- [Babel](https://github.com/babel/babel) - A compiler for writing next generation JavaScript.
+- [Next.js](https://github.com/zeit/next.js) - Framework for server-rendered React apps.
+- [PhantomJS](https://github.com/ariya/phantomjs) - A headless WebKit scriptable with JavaScript.
 
 
 ## Backend
@@ -35,6 +39,8 @@ List all my starred repos
 
 - [Best Chinese Front end Blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) - High quality Chinese front end blogs
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
+- [Good Text Share](https://github.com/Wscats/Good-Text-Share) - Good articles from author's daily work/learning.
+
 
 ## Frontend Library
 
@@ -45,6 +51,9 @@ List all my starred repos
 
 - [localForage](https://github.com/localForage/localForage) - Wrap IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [immutable.js](https://github.com/facebook/immutable-js) - Immutable persistent data collections for JavaScript which increase efficiency and simplicity.
+- [window.fetch polyfill](https://github.com/github/fetch) - A `window.fetch` JavaScript polyfill.
+- [ES6-Promise](https://github.com/stefanpenner/es6-promise) - A polifill for ES6-style Promises.
+- [CSS Element Queries](https://github.com/marcj/css-element-queries) - A polyfill adding support for element based media-queries to all new browser.
 - [Redux](https://github.com/reactjs/redux) - A predictable state container for JavaScript apps.
 
 
@@ -53,26 +62,62 @@ List all my starred repos
 - [React-Motion](https://github.com/chenglou/react-motion) - Animating React Components.
 - [React-Router](https://github.com/ReactTraining/react-router) - Declarative routing for React.
 - [Material UI](https://github.com/callemall/material-ui) - React components that implement Material Design.
+- [React-Markdown](https://github.com/rexxars/react-markdown) - Render markdown as React components.
+- [React-Virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
+- [Halogen](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js.
+- [React Isomorphic Boilerplate](https://github.com/chikara-chan/react-isomorphic-boilerplate) - An universal React isomorphic boilerplate for building server-side render web app.
+- [React Typist](https://github.com/jstejada/react-typist) - Typing animations with React.
+- [Office UI Fabric React](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building experiences for Office and Office 365.
+- [React Syntax Highlighter](https://github.com/conorhastings/react-syntax-highlighter) - React components for highlighting code blocks.
+- [React Trend](https://github.com/unsplash/react-trend) - React components for simple and elegant spark lines.
 
 
 ## small library?
 
 - [Classnames](https://github.com/JedWatson/classnames) - A simple JavaScript utility for conditionally joining classNames together.
 - [Autoprefixer](https://github.com/postcss/autoprefixer) - A plugin to parse CSS and add vendor prefixes to CSS rules.
+- [UnCSS](https://github.com/giakki/uncss) - Remove unused styles from CSS.
 
 - [Animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations.
+- [Fonts.css](https://github.com/zenozeng/fonts.css) - A solution for cross-platform Chinese font.
 
 
 ## Node.js
 
 - [mkdirp](https://github.com/substack/node-mkdirp) - Recursively `mkdir`, like `mkdir -p`, but in Node.js.
 - [Request](https://github.com/request/request) - Simplified HTTP request client in Node.js.
+- [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for Node.js.
+
+
+## PWA
+
+- [Service Worker Precache](https://github.com/GoogleChrome/sw-precache) - A node module to generate service worker code that will precache specific resources so they work offline.
+- [Service Worker Toolbox](https://github.com/GoogleChrome/sw-toolbox) - A collection of service worker tools for offlining runtime requests.
 
 ## Webpack
 
 - [Webpack](https://github.com/webpack/webpack) - Webpack, a module bundler.
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server.
 - [Webpack Extract Text Plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) - Extract text from a bundle, or bundles, into a seperate file.
+- [HTML Webpack Plugin](https://github.com/jantimon/html-webpack-plugin) - Simplify creation of HTML files to serve webpack bundles.
+- [Script Extension for HTML Webpack Plugin](https://github.com/numical/script-ext-html-webpack-plugin) - Enhance html-webpack-plugin functionality with different deployment options for scripts including `async`, `preload`, `prefetch`, `defer`, `module`, custom attributes, and inlining.
+- [Webpack-merge](https://github.com/survivejs/webpack-merge) - Provide a `merge` function that concatenates arrays and merges objects creating a new object, it's particularly useful in configuring webpack.
+- [webpack-isomorphic-tools](https://github.com/catamphetamine/webpack-isomorphic-tools) - A small helper module providing basic support for isomorphic(universal) rendering when using webpack.
+- [universal-webpack](https://github.com/catamphetamine/universal-webpack) - Help setting up isomorphic(universal) webpack build: the one that's working both on client and server.
+- [isomorphic-webpack](https://github.com/gajus/isomorphic-webpack) - A program that runs server-side and enables rendering of the same code base on client and server side.
+- [asset-require-hook](https://github.com/aribouius/asset-require-hook) - A require hook for importing asset files during runtime.
+- [css-modules-require-hook](https://github.com/css-modules/css-modules-require-hook) - A require hook to compile CSS modules in runtime.
+- [Clean for Webpack](https://github.com/johnagan/clean-webpack-plugin) - A webpack plugin to remove/clean build folder(s) before building.
+- [Copy Webpack Plugin](https://github.com/kevlened/copy-webpack-plugin) - A webpack plugin that copies individual files or entire directories to the build directory.
+- [Webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app, updates the browser on changes.
+- [Webpack Assets Manifest](https://github.com/webdeveric/webpack-assets-manifest) - This webpack plugin will generate a JSON file that matches the original filename with the hashed version.
+- [CSS Loader](https://github.com/webpack-contrib/css-loader) - CSS Loader module for webpack.
+- [Imports Loader](https://github.com/webpack-contrib/imports-loader) - Imports loader module for webpack.
+- [Exports Loader](https://github.com/webpack-contrib/exports-loader) - Exports loader module for webpack.
+- [Webpack Bundle Size Analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer) - A tool for finding out what contributes to the size of webpack bundles.
+- [SW Precache Webpack Plugin](https://github.com/goldhand/sw-precache-webpack-plugin) - A webpack plugin for using service workers to cache external project dependencies.
+- [Image Loader](https://github.com/tcoopman/image-webpack-loader) - Image Loader module for webpack.
+- [PostCSS Loader](https://github.com/postcss/postcss-loader) - PostCSS Loader module for webpack.
 
 
 ### Domain specific
@@ -86,6 +131,7 @@ List all my starred repos
 - [baffle.js](https://github.com/camwiegert/baffle) - A tiny JavaScript library for obfuscating and revealing text in DOM elements.
 - [ws](https://github.com/websockets/ws) - A Node.js websocket library.
 - [ASCII Camera](https://github.com/idevelop/ascii-camera) - Use the HTML5 `getUserMedia` API to transform a video stream into a real-time ASCII representation.
+- [Moment](https://github.com/moment/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 - [Recharts](https://github.com/recharts/recharts) - A redefined chart library built with React and D3.
 
@@ -141,15 +187,23 @@ List all my starred repos
 - [Webpack tricks](https://github.com/rstacruz/webpack-tricks) - Tips and tricks in using Webpack.
 - [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider) - Anti anti-spider.
 - [TypeScript for JavaScript programmers](https://github.com/xcatliu/typescript-tutorial) - TypeScript tutorial for JavaScript programmers.
+- [Flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+- [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation of design patterns.
+- [Auth Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
+- [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+
 
 ## Path/Graph
 
 - [Game Programmer](https://github.com/miloyip/game-programmer) - A study path for game programmer.
 - [Skill-map](https://github.com/TeamStuQ/skill-map) - StuQ skill map.
 
-## Books
+## Books/Resources
 
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books) - Free available programming books.
+- [Be a progressional programmer](https://github.com/stanzhai/be-a-professional-programmer) - Tutorials and tools on the way of becoming a profressional programmer.
+
 
 ## Machine learning
 
@@ -173,6 +227,8 @@ List all my starred repos
 
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions.
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - Front-end job interview questions.
+- [What happens when ...](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [What happens when zh-cn](https://github.com/skyline75489/what-happens-when-zh_CN) - Chinese version of [What happens when ...](https://github.com/alex/what-happens-when)
 
 
 ## Raspberry Pi / Netease music
@@ -188,7 +244,8 @@ List all my starred repos
 
 ## Resume
 
-- [Resume for web developer](https://github.com/dhparkdh/resume-for-web-developer) - HTML5 resume template for web developer 
+- [Resume for web developer](https://github.com/dhparkdh/resume-for-web-developer) - HTML5 resume template for web developer.
+- [Animating Resume](https://github.com/jirengu-inc/animating-resume) - An animating resume template.
 
 ## Github
 
@@ -202,6 +259,9 @@ List all my starred repos
 ## Demo
 
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) - A simple demo of phishing by abusing the browser autofill feature.
+- [BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment.
+- [jstests](https://github.com/kangax/jstests) - Various experiments with JavaScript, HTML, CSS, etc.
+- [Vue2-Elm](https://github.com/bailicangdu/vue2-elm) - Elm, using Vue2.
 
 
 ## WebRTC
@@ -212,3 +272,15 @@ List all my starred repos
 ## Small tools
 
 - [Microsoft Edge Launcher](https://github.com/MicrosoftEdge/edge-launcher) - A simple command line exe to launch Microsoft Edge at a URL.
+- [Lepton](https://github.com/hackjutsu/Lepton) - A Github Gist Desktop client based on Electron.
+- [DPI](https://github.com/LeaVerou/dpi) - A little web application that easily finds the DPI/PPI of any screen.
+
+
+## iOS
+
+- [JSPatch](https://github.com/bang590/JSPatch) - Bridge Objective-C and JavaScript using the Objective-C runtime.
+
+## Others
+
+- [Tenant point](https://github.com/soulteary/tenant-point) - Tenant point.
+- [movies for hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
