@@ -15,20 +15,26 @@ List all my starred repos
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Open source codebase and curriculum for https://freeCodeCamp.com
 
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript.
+- [Go](https://github.com/golang/go) - Go.
 - [React](https://github.com/facebook/react) - React.
 - [React Native Windows](https://github.com/Microsoft/react-native-windows) - A framework for building native UWP and WPF apps with React.
+- [ReactXP](https://github.com/Microsoft/reactxp) - Library for cross-platform app development using React and ReactNative.
+- [React Native for Web](https://github.com/necolas/react-native-web) - React Native components and APIs for the web.
 - [Moby](https://github.com/moby/moby) - A collaborative project for the container ecosystem to assemble container-based systems, Docker replacement.
 - [Yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management, NPM replacement.
 - [cppwinrt](https://github.com/Microsoft/cppwinrt) - C++/WinRT, a standard C++ language projection for the Windows Runtime.
 - [Yoga](https://github.com/facebook/yoga) - A cross-platform layout engine which implements Flexbox.
 - [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - Core part of the Chakra JavaScript engine that powers Microsoft Edge.
-- [Preact](https://github.com/developit/preact) - Fask 3kb React alternative with the same ES6 API.
+- [Preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API.
 - [GraphQL](https://github.com/facebook/graphql) - A query language and execution engine tied to any backend service.
 - [Gulp](https://github.com/gulpjs/gulp) - The streaming build system.
 - [Babel](https://github.com/babel/babel) - A compiler for writing next generation JavaScript.
 - [Next.js](https://github.com/zeit/next.js) - Framework for server-rendered React apps.
 - [PhantomJS](https://github.com/ariya/phantomjs) - A headless WebKit scriptable with JavaScript.
+- [Prepack](https://github.com/facebook/prepack) - A partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.
+- [Jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+
 
 
 ## Backend
@@ -40,6 +46,7 @@ List all my starred repos
 - [Best Chinese Front end Blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) - High quality Chinese front end blogs
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
 - [Good Text Share](https://github.com/Wscats/Good-Text-Share) - Good articles from author's daily work/learning.
+- [I'm a FrontEnd Developer](https://github.com/phodal/fe) - I'm a FrontEnd Developer.
 
 
 ## Frontend Library
@@ -54,6 +61,7 @@ List all my starred repos
 - [window.fetch polyfill](https://github.com/github/fetch) - A `window.fetch` JavaScript polyfill.
 - [ES6-Promise](https://github.com/stefanpenner/es6-promise) - A polifill for ES6-style Promises.
 - [CSS Element Queries](https://github.com/marcj/css-element-queries) - A polyfill adding support for element based media-queries to all new browser.
+- [AcrossTabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs.
 - [Redux](https://github.com/reactjs/redux) - A predictable state container for JavaScript apps.
 
 
@@ -70,6 +78,13 @@ List all my starred repos
 - [Office UI Fabric React](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building experiences for Office and Office 365.
 - [React Syntax Highlighter](https://github.com/conorhastings/react-syntax-highlighter) - React components for highlighting code blocks.
 - [React Trend](https://github.com/unsplash/react-trend) - React components for simple and elegant spark lines.
+- [React Datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid component for React.
+- [Rapscallion](https://github.com/FormidableLabs/rapscallion) - Asynchronous React VirtualDOM renderer for the SSR.
+- [react-ionize](https://github.com/mhink/react-ionize) - A library which lets you build the "non-browser" parts of an Electron app using React components to manage applications's state.
+- [React VR](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
+- [Why did you update](https://github.com/garbles/why-did-you-update) - Put console on blast when React is making unnecessary updates.
+- [React Timekeeper](https://github.com/catc/react-timekeeper) - React time picker based on the style of the [Android Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) app.
+- [Reaction](https://github.com/reactioncommerce/reaction) - A customizable, real-time reactive, JavaScript commerce platform.
 
 
 ## small library?
@@ -80,6 +95,11 @@ List all my starred repos
 
 - [Animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations.
 - [Fonts.css](https://github.com/zenozeng/fonts.css) - A solution for cross-platform Chinese font.
+- [Maker.js](https://github.com/Microsoft/maker.js) - Library for creating 2D vector drawings for CNC and laser cutter machines.
+
+- [Marko](https://github.com/marko-js/marko) - A friendly (and fast) UI library that makes building web apps fun.
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - Free Premium Admin control panel theme based on Bootstrap 3.x.
+- [WeUI](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 
 ## Node.js
@@ -87,6 +107,12 @@ List all my starred repos
 - [mkdirp](https://github.com/substack/node-mkdirp) - Recursively `mkdir`, like `mkdir -p`, but in Node.js.
 - [Request](https://github.com/request/request) - Simplified HTTP request client in Node.js.
 - [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for Node.js.
+- [node-redis](https://github.com/NodeRedis/node_redis) - A complete and feature rich Redis client for Node.js.
+- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and Node.js.
+- [response-time](https://github.com/expressjs/response-time) - Response time header for Node.js.
+- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for Node.js.
+- [body-parser](https://github.com/expressjs/body-parser) - Node.js body parser middleware.
+- [PKG](https://github.com/zeit/pkg) - Package Node.js project into an executable.
 
 
 ## PWA
@@ -132,6 +158,8 @@ List all my starred repos
 - [ws](https://github.com/websockets/ws) - A Node.js websocket library.
 - [ASCII Camera](https://github.com/idevelop/ascii-camera) - Use the HTML5 `getUserMedia` API to transform a video stream into a real-time ASCII representation.
 - [Moment](https://github.com/moment/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+- [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript.
+- [SQLite Viewer](https://github.com/inloop/sqlite-viewer) - View SQLite file online.
 
 - [Recharts](https://github.com/recharts/recharts) - A redefined chart library built with React and D3.
 
@@ -149,6 +177,9 @@ List all my starred repos
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [Awesome Wechat Weapp](https://github.com/justjavac/awesome-wechat-weapp) - A colletion of awesome things regarding Weapp.
 - [Awesome Webpack CN](https://github.com/webpack-china/awesome-webpack-cn) - A curated list of awesome webpack resources and tools in Chinese.
+- [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows.
+- [Awesome Indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money.
 
 
 ## Tool
@@ -176,6 +207,7 @@ List all my starred repos
 - [Security guide for developers](https://github.com/FallibleInc/security-guide-for-developers) - A pratical security guide for web developers.
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - C++ Core Guidelines.
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean code concepts adapted for JavaScript.
+- [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 
 
 ## Tutorial
@@ -184,6 +216,7 @@ List all my starred repos
 - [Cpp Template Tutorial](https://github.com/wuye9036/CppTemplateTutorial) - C++ Template Tutorial.
 - [Learn X in Y minutes](https://github.com/adambard/learnxinyminutes-docs) - Inline code tutorials for learning programming language X in Y minutes.
 - [You might not need jQuery](https://github.com/HubSpot/youmightnotneedjquery) - You might not need jQuery.
+- [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain JavaScript.
 - [Webpack tricks](https://github.com/rstacruz/webpack-tricks) - Tips and tricks in using Webpack.
 - [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider) - Anti anti-spider.
 - [TypeScript for JavaScript programmers](https://github.com/xcatliu/typescript-tutorial) - TypeScript tutorial for JavaScript programmers.
@@ -192,17 +225,26 @@ List all my starred repos
 - [Auth Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
 - [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
+- [React Bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks.
+- [Project Based Learning](https://github.com/tuvttran/project-based-learning) - A list of programming tutorials in which learners build an application from scratch.
 
 
 ## Path/Graph
 
 - [Game Programmer](https://github.com/miloyip/game-programmer) - A study path for game programmer.
 - [Skill-map](https://github.com/TeamStuQ/skill-map) - StuQ skill map.
+- [Web developer roadmap - 2017](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017.
 
 ## Books/Resources
 
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books) - Free available programming books.
 - [Be a progressional programmer](https://github.com/stanzhai/be-a-professional-programmer) - Tutorials and tools on the way of becoming a profressional programmer.
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - You Don't Know JS.
+- [GopherChina Conference](https://github.com/gopherchina/conference) - Slides for Gopher China conference.
+- [Super Tiny Social Icons](https://github.com/edent/SuperTinySocialIcons) - Super tiny social icons, svg format.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - High quality TypeScript type definitions.
+
 
 
 ## Machine learning
@@ -210,6 +252,8 @@ List all my starred repos
 - [Machine learning for software engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - Top-down learning path: Machine learning for software engineers.
 - [Deep Learning Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Using Deep Q-Network to learn how to play flappy bird.
 - [BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
+- [ml-class-assignments](https://github.com/everpeace/ml-class-assignments) - Solution of assignment in [2011 Stanford Machine Learning Class](http://www.ml-class.org/).
 
 
 ## Data structures and algorithm
@@ -237,6 +281,7 @@ List all my starred repos
 - [Netease-MusicBox](https://github.com/darknessomi/musicbox) - CLI for Netease music.
 - [musicAPI](https://github.com/LIU9293/musicAPI) - Centralized Node.js API SDK for xiami, netease, and qq music.
 - [play-sound](https://github.com/shime/play-sound) - Play sounds by shelling out to one of the available audio players.
+- [mStream](https://github.com/IrosTheBeggar/mStream) - A personal music streaming server written in Node.js.
 
 ## Wechat
 
@@ -254,6 +299,8 @@ List all my starred repos
 ## Site
 
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Blazing-fast static site generator for React.
+- [Hugo](https://github.com/gohugoio/hugo) - A fast and flexible static site generator built with love in GoLang.
+- [Serverless](https://github.com/serverless/serverless) - Build web applications with serverless arthitecture.
 
 
 ## Demo
@@ -262,6 +309,13 @@ List all my starred repos
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment.
 - [jstests](https://github.com/kangax/jstests) - Various experiments with JavaScript, HTML, CSS, etc.
 - [Vue2-Elm](https://github.com/bailicangdu/vue2-elm) - Elm, using Vue2.
+- [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
+- [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in browser and Node.js.
+- [Anbox](https://github.com/anbox/anbox) - A container-based approach to boot a full Android system on a regular GNU/Linux system.
+- [Beaker Browser](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer web browser.
+- [Control User Cursor](https://github.com/javierbyte/control-user-cursor) - Experiment to alter the cursor behavior.
+- [TodoMVC](https://github.com/tastejs/todomvc) - Todo apps for React.js, Ember.js, Angular, and many more.
+- [RealWorld example apps](https://github.com/gothinkster/realworld) - Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.
 
 
 ## WebRTC
@@ -273,7 +327,12 @@ List all my starred repos
 
 - [Microsoft Edge Launcher](https://github.com/MicrosoftEdge/edge-launcher) - A simple command line exe to launch Microsoft Edge at a URL.
 - [Lepton](https://github.com/hackjutsu/Lepton) - A Github Gist Desktop client based on Electron.
+- [Boostnote](https://github.com/BoostIO/Boostnote) - A note-taking app made for programmers.
 - [DPI](https://github.com/LeaVerou/dpi) - A little web application that easily finds the DPI/PPI of any screen.
+- [vConsole](https://github.com/WechatFE/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks.
+- [Sizzy](https://github.com/kitze/sizzy) - A tool for testing responsive websites crazy-fast.
+- [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
 
 
 ## iOS
