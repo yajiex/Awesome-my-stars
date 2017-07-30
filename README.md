@@ -1,5 +1,5 @@
 # Awesome-my-stars
-List all my starred repos
+> List all my starred repos
 
 
 ## Awesome
@@ -191,6 +191,7 @@ List all my starred repos
 ## Machine learning
 
 - [BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
+- [Deep Learning Chinese Translation](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation.
 - [Deep Learning Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Using Deep Q-Network to learn how to play flappy bird.
 - [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
 - [Machine learning for software engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - Top-down learning path: Machine learning for software engineers.
