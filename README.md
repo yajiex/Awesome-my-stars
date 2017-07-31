@@ -160,6 +160,7 @@
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - High quality TypeScript type definitions.
 - [Dracula Theme](https://github.com/dracula/dracula-theme) - A dark theme for all the things.
 - [Feather](https://github.com/colebemis/feather) - Simply beautiful open source icons.
+- [GB2260](https://github.com/cn/GB2260) - China administrative area code.
 - [Titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages.
 - [Super Tiny Social Icons](https://github.com/edent/SuperTinySocialIcons) - Super tiny social icons, svg format.
 - [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - A public list of APIs from round the web.
