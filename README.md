@@ -11,6 +11,7 @@
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay.
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
 - [Awesome Indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money.
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Awesome Mac applicatiosn and tools for developers and designers.
@@ -43,15 +44,25 @@
 
 - [Best Chinese Front end Blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) - High quality Chinese front end blogs
 - [Good Text Share](https://github.com/Wscats/Good-Text-Share) - Good articles from author's daily work/learning.
+- [iOS Blog CN](https://github.com/tangqiaoboy/iOSBlogCN) - iOS development blogs, in Chinese.
 - [I'm a FrontEnd Developer](https://github.com/phodal/fe) - I'm a FrontEnd Developer.
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
+- [前端小密圈](https://github.com/jawil/blog) - 前端小密圈.
 
 
 ## Books
 
 - [GopherChina Conference](https://github.com/gopherchina/conference) - Slides for Gopher China conference.
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books) - Free available programming books.
+- [The JavaScript Way](https://github.com/bpesquet/thejsway) - The JavaScript way book.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - You Don't Know JS.
+
+
+## Headless
+
+- [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [PhantomJS](https://github.com/ariya/phantomjs) - A headless WebKit scriptable with JavaScript.
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - A Node library which provides a high-level API to control [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) Chrome over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
 
 
 ## Experiments
@@ -67,6 +78,7 @@
 - [TodoMVC](https://github.com/tastejs/todomvc) - Todo apps for React.js, Ember.js, Angular, and many more.
 - [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in browser and Node.js.
 - [Vue2-Elm](https://github.com/bailicangdu/vue2-elm) - Elm, using Vue2.
+- [weweChat](https://github.com/trazyn/weweChat) - Unofficial WeChat client built with React, MobX and Electron.
 - [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 
 
@@ -107,10 +119,10 @@
 - [mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder.
 - [Moment](https://github.com/moment/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 - [Monaco Editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor, which powers VS Code.
+- [Nano ID](https://github.com/ai/nanoid) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
 - [Next.js](https://github.com/zeit/next.js) - Framework for server-rendered React apps.
 - [Now UI Kit](https://github.com/creativetimofficial/now-ui-kit) - A responsive and beautiful cross-platform Bootstrap 4 UI kit.
 - [pell](https://github.com/jaredreich/pell) - The simplest and smallest WYSIWYG text editor for web, with no dependencies.
-- [PhantomJS](https://github.com/ariya/phantomjs) - A headless WebKit scriptable with JavaScript.
 - [Preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API.
 - [Prepack](https://github.com/facebook/prepack) - A partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.
 - [QRCode.js](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for JavaScript.
@@ -131,13 +143,13 @@
 - [Tenant point](https://github.com/soulteary/tenant-point) - Tenant tips.
 
 
-## Github
+## Git/Github
 
 - [gh-pages](https://github.com/tschaub/gh-pages) - Publish files to a `gh-pages` branch on Github (or any other branch anywhere else).
 - [Github Desktop](https://github.com/desktop/desktop) - An open source Electron-based Github app.
 - [Github Explorer](https://github.com/trungdq88/github-explorer) - A Progressive Web App that helps you explore Github user repositories.
 - [GitHut](https://github.com/littleark/githut) - An attempt to visualize and explore the complexity of the universe of programming languages used across the repositories hosted on Github.
-
+- [git-flow](https://github.com/nvie/gitflow) - A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
 
 ## Guidelines
 
@@ -163,6 +175,7 @@
 - [GB2260](https://github.com/cn/GB2260) - China administrative area code.
 - [Titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages.
 - [Super Tiny Social Icons](https://github.com/edent/SuperTinySocialIcons) - Super tiny social icons, svg format.
+- [Public APIs](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 - [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - A public list of APIs from round the web.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Open source codebase and curriculum for https://freeCodeCamp.com
 
@@ -176,15 +189,30 @@
 - [What happens when zh-cn](https://github.com/skyline75489/what-happens-when-zh_CN) - Chinese version of [What happens when ...](https://github.com/alex/what-happens-when)
 
 
-## iOS
+## iOS/Swift/Objective-C
 
 - [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa.
+- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
+- [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
+- [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite.
 - [Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS.
+- [HockeySDK-iOS](https://github.com/bitstadium/HockeySDK-iOS) - The official iOS SDK for the HockeyApp service.
 - [JASON](https://github.com/delba/JASON) - A fast JSON deserializer written in Swift.
 - [JSPatch](https://github.com/bang590/JSPatch) - Bridge Objective-C and JavaScript using the Objective-C runtime.
+- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service.
+- [Pusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with Apple Push Notification service.
+- [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database; a replacement for Core Data & SQLite.
+- [Reachability](https://github.com/tonymillion/Reachability) - ARC and GCD Compatible Reachability Class for iOS and MacOS.
+- [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac in Swift.
+- [Swift](https://github.com/apple/swift) - The Swift Programming Language.
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen) - A tool to auto-generate Swift code for resources of projects, to make them type-safe to use.
+- [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults.
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
+- [SwiftSingleton](https://github.com/hpique/SwiftSingleton) - An exploration of the Singleton pattern in Swift.
+- [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more.
+- [UIImageViewAlignedSwift](https://github.com/sochalewski/UIImageViewAlignedSwift) - A UIImageView subclass which allows you to align the image left/right/top/bottom, even when `contentMode` is `AspectFit`.
+- [Vapor](https://github.com/vapor/vapor) - A server-side Swift web framework.
 - [WebBrowser iOS](https://github.com/zhongwuzw/WebBrowser) - Web Browser for iOS.
 - [WKWebViewTips](https://github.com/ShingoFukuyama/WKWebViewTips) - WKWebView Tips.
 
@@ -195,6 +223,7 @@
 - [Deep Learning Chinese Translation](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation.
 - [Deep Learning Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Using Deep Q-Network to learn how to play flappy bird.
 - [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
+- [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [Machine learning for software engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - Top-down learning path: Machine learning for software engineers.
 - [ml-class-assignments](https://github.com/everpeace/ml-class-assignments) - Solution of assignment in [2011 Stanford Machine Learning Class](http://www.ml-class.org/).
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - Generating code from a graphical user interface screenshot.
@@ -228,6 +257,7 @@
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for Node.js.
 - [ws](https://github.com/websockets/ws) - A Node.js websocket library.
 - [Yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management, NPM replacement.
+- [@std/esm](https://github.com/standard-things/esm) - This fast, small, zero dependency package is all you need to enable ES modules in Node 4+.
 
 
 ## Presentation
@@ -299,6 +329,7 @@
 - [fresh-themes](https://github.com/fresh-standard/fresh-themes) - Multiformat themes and skins for technical resumes/CV.
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Create polished resumes and CVs in multiple formats from command line or shell.
 - [Resume for web developer](https://github.com/dhparkdh/resume-for-web-developer) - HTML5 resume template for web developer.
+- [Zresume](https://github.com/izuolan/zresume) - Z Resume theme.
 
 
 ## Site Generator
@@ -312,10 +343,13 @@
 
 ## Tools
 
+- [Badssl](https://github.com/chromium/badssl.com) - Memorable site for testing clients against bad SSL configs.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A note-taking app made for programmers.
 - [DPI](https://github.com/LeaVerou/dpi) - A little web application that easily finds the DPI/PPI of any screen.
+- [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
 - [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
 - [Insomnia REST Client](https://github.com/getinsomnia/insomnia) - A cross-platform REST client, built on top of Electron.
+- [Istanbul](https://github.com/gotwarlost/istanbul) - A JavaScript code coverage tool written in JavaScript.
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding.
 - [Lepton](https://github.com/hackjutsu/Lepton) - A Github Gist Desktop client based on Electron.
 - [Microsoft Edge Launcher](https://github.com/MicrosoftEdge/edge-launcher) - A simple command line exe to launch Microsoft Edge at a URL.
@@ -324,13 +358,16 @@
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next generation of ShadowsocksX.
 - [Sizzy](https://github.com/kitze/sizzy) - A tool for testing responsive websites crazy-fast.
 - [speedracer](https://github.com/ngryman/speedracer) - A performance runner which collects performance metrics for library/application.
+- [StackBlitz](https://github.com/stackblitz/core) - Online VS Code IDE for Angular & React.
 - [vConsole](https://github.com/WechatFE/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+- [Wechat Explorer](https://github.com/humiaozuzu/wechat-explorer) - Export wechat conversation data.
 - [XSS Listener](https://github.com/cagataycali/xss-listener) - A penetration tool for easy to steal data with various XSS.
 - [XSS'OR](https://github.com/evilcos/xssor2) - XSS'OR, hack with JavaScript.
 
 
 ## Tutorial
 
+- [A checklist for all projects that are going live](https://github.com/spatie/checklist-going-live) - A checklist for all projects that are going live.
 - [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider) - Anti anti-spider.
 - [Auth Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users.
@@ -346,23 +383,28 @@
 - [Itsy-bitsy data structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) - All the things you didn't know you wanted to know about data structures.
 - [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
 - [js-stl](https://github.com/LukeLin/js-stl) - Data structures implemented in JS.
+- [Learn Regex the easy way](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way.
 - [Learn X in Y minutes](https://github.com/adambard/learnxinyminutes-docs) - Inline code tutorials for learning programming language X in Y minutes.
 - [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on Mac OS X.
-- [notes](https://github.com/ChALkeR/notes) - Some public notes about security.
+- [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os) - A list of applications, alfred workflows and various tools that make my macOS experience even more amazing.
+- [Notes](https://github.com/ChALkeR/notes) - Some public notes about security.
+- [Pretty algorithms](https://github.com/jiayihu/pretty-algorithms) - Common useful algorithms written in modern, pretty and easy-to-understand JavaScript along with real-world usage examples.
 - [Project Based Learning](https://github.com/tuvttran/project-based-learning) - A list of programming tutorials in which learners build an application from scratch.
 - [React Bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks.
 - [React Express](https://github.com/dabbott/react-express) - The all-in-one beginner's guide to modern React application development.
-- [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A big picture, thesaurus, and taxonomy of modern JavaScript web development.
 - [TensorFlow World](https://github.com/astorfi/TensorFlow-World) - Simple and ready-to-use tutorials for TensorFlow.
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
 - [TypeScript for JavaScript programmers](https://github.com/xcatliu/typescript-tutorial) - TypeScript tutorial for JavaScript programmers.
 - [TypeScript React Starter](https://github.com/Microsoft/TypeScript-React-Starter) - A quick start guide about how to wire up TypeScript with React.
+- [Side Project Marketing](https://github.com/karllhughes/side-project-marketing) - A checklist of tactics for marketing your side projects.
 - [Skill-map](https://github.com/TeamStuQ/skill-map) - StuQ skill map.
+- [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A big picture, thesaurus, and taxonomy of modern JavaScript web development.
 - [Under the hood: ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS) - Entire React.js code base explanation by visual block schemes.
 - [Webpack tricks](https://github.com/rstacruz/webpack-tricks) - Tips and tricks in using Webpack.
 - [Web design in 4 minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn basics of web design in 4 minutes.
 - [Web developer roadmap - 2017](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017.
+- [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples.
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain JavaScript.
 - [You might not need jQuery](https://github.com/HubSpot/youmightnotneedjquery) - You might not need jQuery.
 
